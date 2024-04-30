@@ -1,2 +1,0 @@
-# green-gaurdian
-class project
